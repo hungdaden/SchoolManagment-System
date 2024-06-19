@@ -24,7 +24,3 @@ include 'inside/home.php';
 }
  ?>
  <!-- Latest compiled and minified CSS -->
-
-<?php
-include "footer.php";
- ?>

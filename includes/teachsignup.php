@@ -37,7 +37,7 @@ $class= mysqli_real_escape_string($conn, $_POST['class']);
             exit();
           }else {
 
-            if (!strlen($phn) == 10) {
+            if (!strlen($phn) == 9) {
               header('Location: ../teachsignup.php?signup=notphn');
               exit();
             }else {

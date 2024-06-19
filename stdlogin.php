@@ -18,7 +18,3 @@ include 'head.php';
    </div>
 
  </form>
-
- <?php
-include "footer.php";
-  ?>

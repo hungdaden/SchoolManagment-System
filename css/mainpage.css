@@ -182,8 +182,8 @@ h1{
 }
 .gallery-container a .teacher{
   margin-top: 20px;
-  width: 520px;
-  height: 450px;
+  width: 350px;
+  height: 400px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -195,8 +195,8 @@ h1{
 }
 .gallery-container a .student{
   margin-top: 20px;
-  width: 520px;
-  height: 450px;
+  width: 350px;
+  height: 400px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -205,6 +205,12 @@ h1{
     border-radius: 6px;
     border: 2px solid black;
 }
+
+#deptrai{
+  font-size: 60px;
+  color: blue;
+}
+
 .gallery-container a{
   font-size: 22px;
   text-decoration: none;

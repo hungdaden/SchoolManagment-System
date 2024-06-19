@@ -22,5 +22,4 @@ include 'inheader.php';
   exit();
 }
 
-include '../footer.php';
  ?>

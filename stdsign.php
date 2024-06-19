@@ -11,6 +11,4 @@ include "head.php";
   <input type="password" name="pwd" placeholder="Password">
   <button type="submit" name="submit" class=".btn">Register</button>
 </form>
- <?php
-include 'footer.php';
-  ?>
+

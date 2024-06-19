@@ -28,7 +28,3 @@ include  'head.php';
 ?>
 
      </section>
-
-     <?php
-     include "footer.php";
-      ?>
